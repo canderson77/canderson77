@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...coding in C#
 - 📫 How to reach me ...candersonandie@gmail.com
 - 😄 Pronouns: ...She, her and hers
-- ⚡ Fun fact: ...my name is transposed in my email?
+- ⚡ Fun fact: ...my name is transposed in my email address
 
 <!---
 canderson77/canderson77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
