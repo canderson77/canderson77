@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TheWorld
+{
+    abstract class Hippo
+    {
+        public int legs;
+        public string color;
+        public int age;
+        public string ability;
+        //waddling
+
+        public int speed(ability x+2*5)
+        {
+            int result = ability * 2*5;
+            return result;
+            //return algorithm for waddling speed
+        }
+
+        public override void animalSound();
+        {
+            Console.WriteLine("Bellow");
+        }
+
+        public void eating();
+        {
+            Console.WriteLine("Grass");
+        }
+        /* public Hippo(string color, int age, string name, int weight)
+        {
+            Color = color;
+            Age = age;
+            Name = name;
+            weight = weight;
+        }/*
+    }
+}
